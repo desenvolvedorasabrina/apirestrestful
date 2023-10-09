@@ -1,6 +1,6 @@
-# apirestrestful
+# apirestrestful | Documentation
  
- ## API
+ ## API Description
 Cliente (client)
 Garçom - anota e leva pedidos (API)
 Cozinha(server)
@@ -23,7 +23,6 @@ Representation State Transfer
 - resources = entidade | objeto
 
 ## RESTFUL
-
 Aplicação dos padrões REST
 
 Constraints
@@ -42,7 +41,6 @@ Constraints
 - não utilizar barras no final de endpoints.
 - utilizar padrões de criação (plural/singular)
 - nunca deixar o client sem response claros
-
 
 ## Verbos HTTP
 HTTP verb - resources
@@ -64,3 +62,8 @@ HTTP verb - resources
 - 5xx: Server Error
     - 500: Internal Server Error
 
+## Author:
+Sabrina Santos
+
+## Source:
+Rocketseat course
