@@ -63,7 +63,7 @@ HTTP verb - resources
     - 500: Internal Server Error
 
 ## Author:
-Sabrina Santos
+Feito com ❤️ por Sabrina M. Dos Santos 🚀
 
 ## Source:
 Rocketseat course
