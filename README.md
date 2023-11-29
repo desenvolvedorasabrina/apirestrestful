@@ -1,6 +1,6 @@
 # apirestrestful | Documentation
  
- ## API Description
+ ## Description
 Cliente (client)
 Garçom - anota e leva pedidos (API)
 Cozinha(server)
@@ -36,13 +36,13 @@ Constraints
 
 - _code on demand_: possibilidade da aplicação pegar código como javascript e executar no client.
 
-## Good Habits
+## Clean Code
 - utilização de verbos HTTP para requisições.
 - não utilizar barras no final de endpoints.
 - utilizar padrões de criação (plural/singular)
 - nunca deixar o client sem response claros
 
-## Verbos HTTP
+## Verbs HTTP
 HTTP verb - resources
 - GET: receber dados 
 - POST: enviar dados/informações para processamento
